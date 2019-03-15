@@ -1,2 +1,2 @@
 install.packages("deSolve")
-install.packages("reactTran")
+install.packages("ReacTran")
